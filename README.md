@@ -1,4 +1,6 @@
 # Book-a-doctor-2
+My email address mail me for any doubts and i can any project on java .
+Book a Doctor is an appointment Based on time and date  with email verification
 Create a tables admin , appointment, doctor ,patient 
 copy and paste following for creation of table 
 create table doctor (id int not null auto_increment, name varchar(30) not null,phone varchar(10) not null,specialist varchar(30),clinic varchar(30),building varchar(30), road varchar(30),area varchar(30),pin int , password varchar (20) , primary key(id)); 
